@@ -2,7 +2,7 @@
 
 /venv
 /.vscode
-/.cph
+**/.cph
 *.out
 *.in
 *eject
